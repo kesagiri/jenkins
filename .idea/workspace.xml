@@ -37,13 +37,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cls" value="46" />
+          <entry key="cls" value="53" />
           <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Apex" value="46" />
+          <entry key="Apex" value="53" />
           <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
@@ -174,7 +174,7 @@
       <option name="presentableId" value="Default" />
       <updated>1540226628347</updated>
       <workItem from="1540226630149" duration="5244000" />
-      <workItem from="1540310720514" duration="1952000" />
+      <workItem from="1540310720514" duration="2200000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540226783325</created>
@@ -187,7 +187,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7196000" />
+    <option name="totallyTimeSpent" value="7444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="184" width="1382" height="744" extended-state="6" />
