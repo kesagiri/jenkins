@@ -4,7 +4,7 @@
 
 public with sharing class NewClass {
 
-    // oa
+    // oasad
     public String getAppVersion () {
         return '1.0.0';
     }
