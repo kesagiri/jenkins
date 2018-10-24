@@ -1,0 +1,9 @@
+<!--
+ - Created by user on 24.10.2018.
+ -->
+<apex:page id="SayAnything">
+    <div class="slds-form-element">
+    <span class="slds-form-element__label slds-text-heading_large slds-align_absolute-center"
+          id="file-selector-primary-label">Hello Sprint</span>
+    </div>
+</apex:page>
