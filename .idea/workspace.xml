@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a4430fa-7616-4fa1-9e32-698dc3ba382a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page-meta.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jenkins.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jenkins.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/force-app/main/default/classes/NewClass.cls" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/classes/NewClass.cls" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,7 +31,7 @@
         <counts>
           <entry key="cls" value="2" />
           <entry key="json" value="2" />
-          <entry key="page" value="1" />
+          <entry key="page" value="2" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
@@ -44,22 +40,22 @@
           <entry key="Apex" value="2" />
           <entry key="JSON" value="2" />
           <entry key="Meta.xml" value="2" />
-          <entry key="Visualforce" value="1" />
+          <entry key="Visualforce" value="2" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cls" value="196" />
-          <entry key="page" value="94" />
-          <entry key="txt" value="19" />
+          <entry key="page" value="95" />
+          <entry key="txt" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Apex" value="196" />
-          <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Visualforce" value="94" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Visualforce" value="95" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -70,7 +66,14 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page">
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,10 +128,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="-7" />
-    <option name="width" value="1550" />
-    <option name="height" value="840" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="1" />
@@ -144,6 +147,32 @@
             <path>
               <item name="jenkins" type="b2602c69:ProjectViewProjectNode" />
               <item name="jenkins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jenkins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="force-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jenkins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="force-app" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jenkins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="force-app" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jenkins" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jenkins" type="462c0819:PsiDirectoryNode" />
+              <item name="force-app" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,7 +220,7 @@
       <workItem from="1540387554839" duration="5454000" />
       <workItem from="1540393080678" duration="12000" />
       <workItem from="1540393113597" duration="355000" />
-      <workItem from="1540393471366" duration="2335000" />
+      <workItem from="1540393471366" duration="4122000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540226783325</created>
@@ -221,14 +250,29 @@
       <option name="project" value="LOCAL" />
       <updated>1540313956266</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="VF say">
+      <created>1540396050750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540396050750</updated>
+    </task>
+    <task id="LOCAL-00006" summary="VF say1">
+      <created>1540396946946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540396946946</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21423000" />
+    <option name="totallyTimeSpent" value="23210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" x="-2479" y="5" width="1360" height="656" id="Project" order="0" visible="true" weight="0.11795682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -262,7 +306,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test1" />
+    <MESSAGE value="VF say" />
+    <MESSAGE value="VF say1" />
+    <option name="LAST_COMMIT_MESSAGE" value="VF say1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/project-scratch-def.json">
@@ -293,11 +339,6 @@
     <entry file="file://$PROJECT_DIR$/mdapipackage/package.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/force-app/main/default/classes/NewClass.cls">
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider editor-type-id="text-editor">
@@ -308,6 +349,11 @@
           </folding>
         </state>
       </provider>
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
     </entry>
   </component>
