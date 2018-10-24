@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5a4430fa-7616-4fa1-9e32-698dc3ba382a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,15 +47,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cls" value="196" />
-          <entry key="page" value="96" />
-          <entry key="txt" value="28" />
+          <entry key="page" value="97" />
+          <entry key="txt" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Apex" value="196" />
-          <entry key="PLAIN_TEXT" value="28" />
-          <entry key="Visualforce" value="96" />
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Visualforce" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -221,7 +220,7 @@
       <workItem from="1540387554839" duration="5454000" />
       <workItem from="1540393080678" duration="12000" />
       <workItem from="1540393113597" duration="355000" />
-      <workItem from="1540393471366" duration="4638000" />
+      <workItem from="1540393471366" duration="5324000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540226783325</created>
@@ -279,15 +278,28 @@
       <option name="project" value="LOCAL" />
       <updated>1540399019555</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="VF say4">
+      <created>1540399456922</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540399456922</updated>
+    </task>
+    <task id="LOCAL-00010" summary="VF say5">
+      <created>1540399553079</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540399553079</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23726000" />
+    <option name="totallyTimeSpent" value="24412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" x="-2479" y="5" width="1360" height="656" id="Project" order="0" visible="true" weight="0.11795682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -325,7 +337,9 @@
     <MESSAGE value="VF say1" />
     <MESSAGE value="VF say2" />
     <MESSAGE value="VF say3" />
-    <option name="LAST_COMMIT_MESSAGE" value="VF say3" />
+    <MESSAGE value="VF say4" />
+    <MESSAGE value="VF say5" />
+    <option name="LAST_COMMIT_MESSAGE" value="VF say5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/project-scratch-def.json">
