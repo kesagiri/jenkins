@@ -6,7 +6,6 @@
     <span class="slds-form-element__label slds-text-heading_large slds-align_absolute-center"
 
           id="file-selector-primary-label">Hello Sprint</span>
-
     </div>
 </apex:page>
 
