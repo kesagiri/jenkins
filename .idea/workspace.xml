@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a4430fa-7616-4fa1-9e32-698dc3ba382a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -51,13 +50,13 @@
         <counts>
           <entry key="cls" value="196" />
           <entry key="page" value="153" />
-          <entry key="txt" value="126" />
+          <entry key="txt" value="130" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Apex" value="196" />
-          <entry key="PLAIN_TEXT" value="126" />
+          <entry key="PLAIN_TEXT" value="130" />
           <entry key="Visualforce" value="153" />
         </counts>
       </usages-collector>
@@ -227,7 +226,7 @@
       <workItem from="1540387554839" duration="5454000" />
       <workItem from="1540393080678" duration="12000" />
       <workItem from="1540393113597" duration="355000" />
-      <workItem from="1540393471366" duration="18600000" />
+      <workItem from="1540393471366" duration="18998000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540226783325</created>
@@ -383,11 +382,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540473871632</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="test2">
+      <created>1540474762014</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1540474762014</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37688000" />
+    <option name="totallyTimeSpent" value="38086000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="174" width="1550" height="838" extended-state="6" />
@@ -444,7 +450,8 @@
     <MESSAGE value="Hello Sprint" />
     <MESSAGE value="Hello Customer Key" />
     <MESSAGE value="test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+    <MESSAGE value="test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/project-scratch-def.json">
