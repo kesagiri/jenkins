@@ -3,10 +3,8 @@
  */
 
 public with sharing class NewClass {
-
-    //succe
+    //successSprintTest1
     public String getAppVersion () {
         return '1.0.0';
     }
-
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a4430fa-7616-4fa1-9e32-698dc3ba382a" name="Default Changelist" comment="first commit">
+    <list default="true" id="5a4430fa-7616-4fa1-9e32-698dc3ba382a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/force-app/main/default/classes/NewClass.cls" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/classes/NewClass.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,64 +18,119 @@
     <session id="-130187144">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cls" value="1" />
-          <entry key="json" value="1" />
+          <entry key="cls" value="2" />
+          <entry key="json" value="3" />
+          <entry key="page" value="3" />
+          <entry key="resource" value="3" />
+          <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Apex" value="1" />
-          <entry key="JSON" value="1" />
+          <entry key="Apex" value="2" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="3" />
+          <entry key="Meta.xml" value="3" />
+          <entry key="Visualforce" value="3" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cls" value="53" />
-          <entry key="txt" value="14" />
+          <entry key="cls" value="196" />
+          <entry key="page" value="159" />
+          <entry key="txt" value="143" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Apex" value="53" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Apex" value="196" />
+          <entry key="PLAIN_TEXT" value="143" />
+          <entry key="Visualforce" value="159" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.create.new" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/project-scratch-def.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/force-app/main/default/classes/NewClass.cls">
-          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+        <entry file="file://$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page">
           <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Visualforce Page" />
+        <option value="Apex Metadata" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="UAT" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/force-app/main/default/classes/NewClass.cls" />
+        <option value="$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page" />
       </list>
+    </option>
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="moduleWorkspaceSettings">
+      <map>
+        <entry key="jenkins">
+          <value>
+            <ModuleWorkspaceSettings>
+              <option name="moduleContentsLastModified" value="1540393079844" />
+            </ModuleWorkspaceSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="connectionWorkspaceSettings">
+          <map>
+            <entry key="TempUnmanaged">
+              <value>
+                <ConnectionWorkspaceSettings />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="soqlQuerySettings">
+          <SoqlQuerySettings>
+            <option name="documentText" value="" />
+          </SoqlQuerySettings>
+        </option>
+      </ProjectWorkspaceSettings>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -85,17 +140,19 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1374" />
-    <option name="y" value="184" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="1911" />
+    <option name="y" value="172" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,11 +163,6 @@
             <path>
               <item name="jenkins" type="b2602c69:ProjectViewProjectNode" />
               <item name="jenkins" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jenkins" type="462c0819:PsiDirectoryNode" />
               <item name="force-app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -125,28 +177,24 @@
               <item name="force-app" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jenkins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jenkins" type="462c0819:PsiDirectoryNode" />
-              <item name="force-app" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\jenkins\force-app\main\default\staticresources" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\WebstormProjects\jenkins" />
     </key>
@@ -174,7 +222,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540226628347</updated>
       <workItem from="1540226630149" duration="5244000" />
-      <workItem from="1540310720514" duration="2200000" />
+      <workItem from="1540310720514" duration="3501000" />
+      <workItem from="1540371087343" duration="4522000" />
+      <workItem from="1540387554839" duration="5454000" />
+      <workItem from="1540393080678" duration="12000" />
+      <workItem from="1540393113597" duration="355000" />
+      <workItem from="1540393471366" duration="22514000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540226783325</created>
@@ -183,20 +236,225 @@
       <option name="project" value="LOCAL" />
       <updated>1540226783325</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1540313846587</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540313846587</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1540313880526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540313880526</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test1">
+      <created>1540313956266</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540313956266</updated>
+    </task>
+    <task id="LOCAL-00005" summary="VF say">
+      <created>1540396050750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540396050750</updated>
+    </task>
+    <task id="LOCAL-00006" summary="VF say1">
+      <created>1540396946946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540396946946</updated>
+    </task>
+    <task id="LOCAL-00007" summary="VF say2">
+      <created>1540398841510</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540398841510</updated>
+    </task>
+    <task id="LOCAL-00008" summary="VF say3">
+      <created>1540399019555</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540399019555</updated>
+    </task>
+    <task id="LOCAL-00009" summary="VF say4">
+      <created>1540399456922</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540399456922</updated>
+    </task>
+    <task id="LOCAL-00010" summary="VF say5">
+      <created>1540399553079</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540399553079</updated>
+    </task>
+    <task id="LOCAL-00011" summary="VF say6">
+      <created>1540400043939</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540400043939</updated>
+    </task>
+    <task id="LOCAL-00012" summary="VF say7">
+      <created>1540403031674</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1540403031674</updated>
+    </task>
+    <task id="LOCAL-00013" summary="VF say8">
+      <created>1540403116076</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540403116076</updated>
+    </task>
+    <task id="LOCAL-00014" summary="VF say lightning">
+      <created>1540404235409</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1540404235409</updated>
+    </task>
+    <task id="LOCAL-00015" summary="VF say staticres">
+      <created>1540404394208</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1540404394208</updated>
+    </task>
+    <task id="LOCAL-00016" summary="VF say lightning and res">
+      <created>1540404893190</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1540404893190</updated>
+    </task>
+    <task id="LOCAL-00017" summary="VF say lightning meta static">
+      <created>1540405636895</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1540405636895</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Hello Mark">
+      <created>1540405764381</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1540405764381</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Hello Andrey">
+      <created>1540458395261</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1540458395261</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Hello Sprint">
+      <created>1540471990768</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1540471990768</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Hello Customer Key">
+      <created>1540472221131</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1540472221131</updated>
+    </task>
+    <task id="LOCAL-00022" summary="test1">
+      <created>1540473871632</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1540473871632</updated>
+    </task>
+    <task id="LOCAL-00023" summary="test2">
+      <created>1540474762014</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1540474762014</updated>
+    </task>
+    <task id="LOCAL-00024" summary="test3">
+      <created>1540475123663</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1540475123663</updated>
+    </task>
+    <task id="LOCAL-00025" summary="test4">
+      <created>1540475314308</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1540475314308</updated>
+    </task>
+    <task id="LOCAL-00026" summary="test5">
+      <created>1540475452614</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1540475452614</updated>
+    </task>
+    <task id="LOCAL-00027" summary="test6">
+      <created>1540481283239</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1540481283239</updated>
+    </task>
+    <task id="LOCAL-00028" summary="testMail">
+      <created>1540484348080</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1540484348080</updated>
+    </task>
+    <task id="LOCAL-00029" summary="testMail_1">
+      <created>1540484911609</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1540484911609</updated>
+    </task>
+    <task id="LOCAL-00030" summary="testMail_2">
+      <created>1540485305558</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1540485305558</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7444000" />
+    <option name="totallyTimeSpent" value="41602000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1374" y="184" width="1382" height="744" extended-state="6" />
+    <frame x="1913" y="174" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="-2479" y="5" width="1360" height="656" id="Project" order="0" visible="true" weight="0.24627976" />
+      <window_info active="true" content_ui="combo" x="-2479" y="5" width="1360" height="656" id="Project" order="0" visible="true" weight="0.16171618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Illuminated Cloud" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49966997" weight="0.32934132" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -204,12 +462,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Log Viewer" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="SOQL Query" order="9" />
+      <window_info anchor="bottom" id="SOQL Query" order="9" weight="0.32967034" />
       <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50033003" side_tool="true" weight="0.24550898" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Anonymous Apex" order="13" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="14" visible="true" weight="0.4967213" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.5002633" weight="0.48426574" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -222,16 +480,61 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="VF say1" />
+    <MESSAGE value="VF say2" />
+    <MESSAGE value="VF say3" />
+    <MESSAGE value="VF say4" />
+    <MESSAGE value="VF say5" />
+    <MESSAGE value="VF say6" />
+    <MESSAGE value="VF say7" />
+    <MESSAGE value="VF say8" />
+    <MESSAGE value="VF say lightning" />
+    <MESSAGE value="VF say staticres" />
+    <MESSAGE value="VF say lightning and res" />
+    <MESSAGE value="VF say lightning meta static" />
+    <MESSAGE value="Hello Mark" />
+    <MESSAGE value="Hello Andrey" />
+    <MESSAGE value="Hello Sprint" />
+    <MESSAGE value="Hello Customer Key" />
+    <MESSAGE value="test1" />
+    <MESSAGE value="test2" />
+    <MESSAGE value="test3" />
+    <MESSAGE value="test4" />
+    <MESSAGE value="test5" />
+    <MESSAGE value="test6" />
+    <MESSAGE value="testMail" />
+    <MESSAGE value="testMail_1" />
+    <MESSAGE value="testMail_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="testMail_2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/project-scratch-def.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfdx-project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/classes/NewClass.cls-meta.xml">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/package.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mdapipackage/package.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/force-app/main/default/classes/NewClass.cls">
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
@@ -245,5 +548,43 @@
       </provider>
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/staticresources/lightning.resource">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/staticresources/lightning.resource-meta.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/staticresources/test.resource">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.sfdx/sfdx-config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

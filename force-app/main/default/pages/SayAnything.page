@@ -1,0 +1,15 @@
+<!--
+ - Created by user on 24.10.2018.
+ -->
+<apex:page id="SayAnything">
+    <link rel="stylesheet" type="text/css"
+          href="{!URLFOR($Resource.lightning, 'styles/salesforce-lightning-design-system.css')}"/>
+
+    <div class="slds-form-element">
+        <br></br>
+        <br></br>
+        <br></br>
+    <span class="slds-form-element__label slds-text-heading_large slds-align_absolute-center"
+          id="file-selector-primary-label">Hello Customer Key</span>
+    </div>
+</apex:page>
