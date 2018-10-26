@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5a4430fa-7616-4fa1-9e32-698dc3ba382a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,6 +66,31 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1849139400">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="page" value="33" />
+          <entry key="txt" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Visualforce" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.remote" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -90,7 +114,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="UAT" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
@@ -153,6 +177,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,7 +207,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,6 +252,7 @@
       <workItem from="1540393080678" duration="12000" />
       <workItem from="1540393113597" duration="355000" />
       <workItem from="1540393471366" duration="22514000" />
+      <workItem from="1540556361482" duration="236000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1540226783325</created>
@@ -439,20 +464,33 @@
       <option name="project" value="LOCAL" />
       <updated>1540485305558</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Test 26 oct 2018">
+      <created>1540556559156</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1540556559156</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Test 26 oct 2018">
+      <created>1540556590903</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1540556590903</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41602000" />
+    <option name="totallyTimeSpent" value="41913000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="174" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="-2479" y="5" width="1360" height="656" id="Project" order="0" visible="true" weight="0.16171618" />
+      <window_info active="true" content_ui="combo" x="-2479" y="5" width="1360" height="656" id="Project" order="0" visible="true" weight="0.16136725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Illuminated Cloud" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49966997" weight="0.32934132" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -468,6 +506,7 @@
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Anonymous Apex" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.5002633" weight="0.48426574" />
+      <window_info anchor="bottom" id="Illuminated Cloud" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -480,7 +519,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="VF say1" />
     <MESSAGE value="VF say2" />
     <MESSAGE value="VF say3" />
     <MESSAGE value="VF say4" />
@@ -505,7 +543,8 @@
     <MESSAGE value="testMail" />
     <MESSAGE value="testMail_1" />
     <MESSAGE value="testMail_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="testMail_2" />
+    <MESSAGE value="Test 26 oct 2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 26 oct 2018" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/project-scratch-def.json">
@@ -537,28 +576,19 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/force-app/main/default/classes/NewClass.cls">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/staticresources/lightning.resource">
       <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/staticresources/lightning.resource" />
     <entry file="file://$PROJECT_DIR$/force-app/main/default/staticresources/lightning.resource-meta.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/staticresources/test.resource">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
-      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/staticresources/test.resource" />
     <entry file="file://$PROJECT_DIR$/.sfdx/sfdx-config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -567,8 +597,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/force-app/main/default/pages/SayAnything.page">
-      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider editor-type-id="text-editor" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
       <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
     </entry>
   </component>
